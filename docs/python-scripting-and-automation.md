@@ -56,4 +56,4 @@
 
 ## 8.3 Automation Scripts
 
-[Python Automation Scripts](OpenWRT_walkthrough/automation)
+[Python Automation Scripts](../automation)
