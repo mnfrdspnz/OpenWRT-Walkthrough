@@ -56,4 +56,4 @@
 
 ## 8.3 Automation Scripts
 
-[Scripts](scripts)
+[Python Automation Scripts](automation)
