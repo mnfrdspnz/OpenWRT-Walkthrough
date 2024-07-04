@@ -1,7 +1,7 @@
-# OpenWRT_walkthrough
+# OpenWRT-Walkthrough
 A beginner comprehensive guide to OpenWRT with automation scripts.
 
-# OpenWRT-Project
+# OpenWRT-Guide+Automation
 
 A comprehensive guide to OpenWRT with automation scripts.
 
